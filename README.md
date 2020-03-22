@@ -1,3 +1,30 @@
+# vuejs_buefy_vee-validate
+this project was intend to add more customer experience in terms validating user's input prior getting to server. this is not replacing validation in server-side but rather both client-side and client-side validations are awesome. 
+
+# test
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jepoycerujano/vuejs_buefy_vee-validate/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
