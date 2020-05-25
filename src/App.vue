@@ -10,7 +10,7 @@
         <template slot="brand">
           <b-navbar-item tag="router-link" :to="{ path: '/' }">
             <img
-              src="./assets/pumpkin.png"
+              src="./assets/jcc_logo.png"
               alt="Lightweight UI components for Vue.js based on Bulma"
             />
           </b-navbar-item>

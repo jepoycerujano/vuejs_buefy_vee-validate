@@ -5,7 +5,7 @@ import Hauler from '@/components/Hauler';
 Vue.use(Router);
 
 export default new Router({
-  // mode: 'history',
+  mode: 'history',
   linkActiveClass: 'is-active',
   routes: [{
     path: '/hauler',
